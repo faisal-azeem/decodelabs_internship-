@@ -1,0 +1,25 @@
+{
+    "total_spent": 22880.0,
+    "expenses": [
+        {
+            "amount": 240.0,
+            "description": "eggs"
+        },
+        {
+            "amount": 2500.0,
+            "description": "petrol"
+        },
+        {
+            "amount": 100.0,
+            "description": "biscuit"
+        },
+        {
+            "amount": 40.0,
+            "description": "water bottle"
+        },
+        {
+            "amount": 20000.0,
+            "description": "rent"
+        }
+    ]
+}
